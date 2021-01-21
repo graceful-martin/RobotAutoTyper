@@ -22,8 +22,8 @@
 
 ## Dependencies
 
-| **Category**      | **Dependency**                                             |
-|-------------------|------------------------------------------------------------|
-| Gradle            | [LZ4](https://github.com/lz4/lz4)                          | 
-| JnativeHook       | [xxHash](https://github.com/Cyan4973/xxHash)               | 
-| jna               | [LZ4](https://github.com/lz4/lz4)                          | 
+| **Dependency**                                             |
+|------------------------------------------------------------|
+| [Gradle](https://github.com/lz4/lz4)                       | 
+| [jnativeHook](https://github.com/Cyan4973/xxHash)          | 
+| [jna](https://github.com/lz4/lz4)                          | 
