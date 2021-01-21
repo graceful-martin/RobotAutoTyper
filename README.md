@@ -41,6 +41,6 @@ ABCD가 PC 클립보드에 저장되면 자동으로 안녕하세요를 자음/�
 
 | **Dependency**                                             |
 |------------------------------------------------------------|
-| [Gradle 6.8](https://github.com/lz4/lz4)                   | 
-| [jnativehook 2.0.2](https://github.com/Cyan4973/xxHash)    | 
-| [jna 5.6.0](https://github.com/lz4/lz4)                    | 
+| [Gradle 6.8](https://www.google.com/search?client=safari&rls=en&q=gradle+6.8&ie=UTF-8&oe=UTF-8)                   | 
+| [jnativehook 2.0.2](https://jar-download.com/artifacts/com.1stleg/jnativehook/2.0.2/source-code)    | 
+| [jna 5.6.0](https://mvnrepository.com/artifact/net.java.dev.jna/jna/5.6.0)                    | 
