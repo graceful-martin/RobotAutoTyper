@@ -1,7 +1,7 @@
 # [RobotAutoTyper](https://github.com/in-genieur/RobotAutoTyper)
 
 [![License](https://img.shields.io/badge/license-AGPL%20v3.0%2B-brightgreen.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
-[![Language](https://img.shields.io/badge/java-14-yellowgreen)](https://openjdk.java.net/projects/jdk/14/)
+[![Language](https://img.shields.io/badge/openjdk-14-yellowgreen)](https://openjdk.java.net/projects/jdk/14/)
 
 조금은 위험한 자동 타이핑 프로그램. <br>
 윈도우 기준으로 작성하였으며 다른 OS에서는 테스트하지 않았습니다. <br>
@@ -23,8 +23,10 @@ Default Path는 D드라이브의
 
 ## 핫키
 
-| **HotKey**       |                                         |
+| **HotKey**       | **기능**                                 |
 |------------------------------------------------------------|
+| F7               | 일시중지/재개                              |
+| F8               | 정지                                     | 
 
 
 ## Dependencies
