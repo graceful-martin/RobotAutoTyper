@@ -74,10 +74,8 @@ public class App extends JFrame {
                                                     || Pattern.matches("[A-Z]", "" + res[1].charAt(count))
                                                     || Pattern.matches("[0-9]", "" + res[1].charAt(count))
                                                     || Pattern.matches("[ ]", "" + res[1].charAt(count))) {
-                                                // System.out.println("��� ���� " + res[1].charAt(count));
                                                 AnsList.add("" + res[1].charAt(count));
-                                            } else if (Pattern.matches("[��-��]", "" + res[1].charAt(count))) {
-
+                                            } else if (Pattern.matches("^[ㄱ-ㅎ가-힣]*$", "" + res[1].charAt(count))) {
                                                 String splitedKorean = KeyExample
                                                         .toKoJasoAtom("" + res[1].charAt(count));
                                                 for (int it = 0; it < splitedKorean.length(); it++) {
