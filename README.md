@@ -24,5 +24,6 @@
 
 | **Category**      | **Dependency**                                             |
 |-------------------|------------------------------------------------------------|
-| (De)compression   | [LZ4](https://github.com/lz4/lz4)                          | 
-| Error checking    | [xxHash](https://github.com/Cyan4973/xxHash)               | 
+| Gradle            | [LZ4](https://github.com/lz4/lz4)                          | 
+| JnativeHook       | [xxHash](https://github.com/Cyan4973/xxHash)               | 
+| jna               | [LZ4](https://github.com/lz4/lz4)                          | 
