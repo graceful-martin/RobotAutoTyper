@@ -19,3 +19,10 @@
     </td>
   </tbody>
 </table>
+
+## Dependencies
+
+| **Category**      | **Dependency**                                             |
+|-------------------|------------------------------------------------------------|
+| (De)compression   | [LZ4](https://github.com/lz4/lz4)                          | 
+| Error checking    | [xxHash](https://github.com/Cyan4973/xxHash)               | 
